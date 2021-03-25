@@ -40,10 +40,7 @@ input{
     width: 65px;
     height: 38px;
     opacity: 0;
-}
-
-input:hover{
-    cursor: pointer;  
+    cursor: pointer;
 }
 
 span{
